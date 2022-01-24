@@ -5,7 +5,7 @@
 
 * 조장: 신원규 [github](https://github.com/WongueShin)
 * 조원: 김서윤 [github]()
-* 조원: 권영채 [github]()
+* 조원: 권영채 [github](https://github.com/zerochae)
 * 조원: 지연비 [github](https://github.com/jyb1798)
 
 <ul>
