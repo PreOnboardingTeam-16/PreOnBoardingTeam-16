@@ -1,4 +1,4 @@
-<h1>Wanted x WeCode Pre OnBoarding Course 20_01기🚀</h1>
+<h1>Wanted x WeCode Pre OnBoarding Course 22_01기🚀</h1>
 <h3>16번째팀 조명 ✨잘하조✨의 공용 저장소 관리용 계정입니다!</h3>
 
 <br/>
