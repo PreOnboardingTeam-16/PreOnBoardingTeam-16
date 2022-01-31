@@ -11,8 +11,9 @@
 <ul>
   <li> <h6>1주차 과제</h6>
     <ul>
-      <li> <a href=https://github.com/PreOnBoarding-Team-16/1stWeek_interview-task>면접과제</a> </li>
-      <li><a href=https://github.com/PreOnBoarding-Team-16/1stWeek_wirebarley-Red-Brick-task>와이어바알리-레드브릭 기업과제</a></li>
+      <li> <a href=https://github.com/PreOnboardingTeam-16/1stWeek_interview-task>면접과제</a> </li>
+      <li><a href=https://github.com/PreOnBoardingTeam-16/1stWeek_wirebarley-Red-Brick-task>와이어바알리-레드브릭 기업과제</a></li>
+      <li><a href=https://github.com/PreOnboardingTeam-16/1stweek-sirloin-task>설로인 기업과제</a></li>
     </ul>
   </li>
 </ul>
