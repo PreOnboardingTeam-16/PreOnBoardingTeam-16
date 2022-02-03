@@ -16,4 +16,9 @@
       <li><a href=https://github.com/PreOnboardingTeam-16/1stweek-sirloin-task>설로인 기업과제</a></li>
     </ul>
   </li>
+  <li> <h6>설연휴 개인 추가과제</h6>
+    <ul>
+      <li> <a href=https://github.com/WongueShin/ggumim-task>신원규</a> </li>
+    </ul>
+  </li>
 </ul>
