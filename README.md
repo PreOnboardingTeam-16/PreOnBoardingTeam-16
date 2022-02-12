@@ -19,6 +19,12 @@
   <li> <h6>설연휴 개인 추가과제</h6>
     <ul>
       <li> <a href=https://github.com/WongueShin/ggumim-task>신원규</a> </li>
+      <li> <a href=https://github.com/zerochae/personal_ggumim_task>권영채</a> </li>
+    </ul>
+  </li>
+  <li> <h6>2주차 과제</h6>
+    <ul>
+      <li> <a href=https://github.com/PreOnboardingTeam-16/2ndweek-swit-task>Swit 기업과제</a> </li>
     </ul>
   </li>
 </ul>
